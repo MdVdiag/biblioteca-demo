@@ -1,0 +1,11 @@
+CREATE TABLE Libro (
+  id INTEGER PRIMARY KEY AUTOINCREMENT,
+  titulo TEXT NOT NULL,
+  autor TEXT NOT NULL
+);
+
+insertLibro:
+INSERT INTO Libro(titulo, autor) VALUES (?, ?);
+
+selectAllLibros:
+SELECT * FROM Libro;
