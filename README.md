@@ -23,7 +23,13 @@ lector externo), además de correcciones y ajustes de usabilidad.
 La aplicación permite gestionar de forma completa el día a día de una biblioteca escolar: el catálogo de libros, los préstamos activos, las devoluciones y los usuarios registrados.
 
 ---
+## Capturas de pantalla
 
+![Catálogo de libros](Captura%20de%20pantalla%20(1383).png)
+
+![Gestión de alumnos](Captura%20de%20pantalla%20(1384).png)
+
+---
 ## Funcionalidades
 
 - 📖 **Catálogo de libros** — alta, baja y edición de títulos
