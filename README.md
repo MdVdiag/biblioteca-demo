@@ -2,6 +2,17 @@
 
 > Aplicación de gestión bibliotecaria desarrollada y donada al **Colegio Concertado Santa Teresa**.  
 > Un proyecto real, construido para resolver un problema real.
+>
+## Estado del proyecto
+
+![Version](https://img.shields.io/badge/versión-2.0.1-brightgreen)
+![Estado](https://img.shields.io/badge/estado-en%20uso%20activo-blue)
+
+La aplicación lleva varios meses en uso en el centro educativo 
+y se mantiene activamente. Esta versión incorpora mejoras 
+sobre el modelo de datos de alumnos para dar soporte futuro 
+a identificación por código de barras (lectura directa desde 
+lector externo), además de correcciones y ajustes de usabilidad.
 
 ---
 
